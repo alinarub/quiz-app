@@ -1,0 +1,15 @@
+* .header {
+  background: #140523;
+  color: #ffffff;
+  height: 100%;
+  box-shadow: rgba(0, 0, 0, 0.24) 0 3px 8px;
+  padding: 10px;
+  position: fixed;
+}
+
+.footer {
+  background: #140523;
+  color: #ffffff;
+  height: 100%;
+  position: fixed;
+}
