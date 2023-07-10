@@ -21,23 +21,25 @@ body {
   align-items: center;
 }
 
-.QuestionBox {
+.questionBox {
   list-style: none;
   margin-top: 180px;
   border: 1px solid black;
-  padding: 50px;
-
+  padding: 10px;
   text-align: center;
 }
 
+.fa-regular fa-bookmark {
+  top: right;
+}
 .options {
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 8px;
   color: black;
-  list-style: none;
   border-radius: 2px;
+  list-style: none;
 }
 
 .footer {
@@ -51,8 +53,12 @@ body {
   align-items: center;
   flex-direction: row;
 }
+.navbar {
+  width: 5000px;
+  height: 5000px;
+}
 
-.footerul {
+.footer ul {
   display: flex;
   justify-content: space-between;
   list-style: none;
